@@ -3,7 +3,7 @@ public class Main {
 
         Functionality construct = new Functionality("Erlan", 223);
         construct.showMenu();
-
+        System.out.println("check");
 
 
     }
